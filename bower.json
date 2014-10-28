@@ -1,0 +1,25 @@
+{
+  "name": "ngPullToRefresh",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cllu/ngPullToRefresh",
+  "authors": [
+    "Chunliang Lyu <hi@chunlianglyu.com>"
+  ],
+  "description": "Angular pull to refresh directive",
+  "main": "main.js",
+  "keywords": [
+    "angular",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1"
+  }
+}

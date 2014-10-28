@@ -1,0 +1,7 @@
+<div class="pull-to-refresh">
+  <header ng-switch on="pullState">
+    <div ng-switch-when="refreshing"><i class="icon refreshing spin"></i> Loading.....</div>
+    <div ng-switch-when="ready"><i class="icon release"></i> Release to refresh</div>
+    <div ng-switch-default=""><i class="icon pull-down"></i> Pull down to refresh</div>
+  </header>
+</div>

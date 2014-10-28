@@ -1,0 +1,14 @@
+.pull-to-refresh > header {
+  display: none;
+  text-align: center;
+  background-color: #aaaaaa;
+  height: 600px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  z-index: -1;
+  padding-top: 20px;
+}
+
+/*# sourceMappingURL=main.css.map */
